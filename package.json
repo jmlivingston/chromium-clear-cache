@@ -1,0 +1,5 @@
+{
+  "name": "chromium-clear-cache",
+  "version": "1.0.0",
+  "description": "Clears Chromium (Chrome, Edge, Brave, etc.) cache and refreshes the page."
+}
