@@ -14,8 +14,8 @@ Should work in any Chromium based browser. It has been tested on Chrome, Edge, a
 
 This extension is not currently published to any web store, but you can add it manually with the following steps:
 
-- Download or clone this repository locally.
-- Open your browser Extension page from the menu or by pasting the following in your address bar:
+- Download and unzip or use Git to clone this repository to a local directory.
+- Open your browser Extension page from the menu or by pasting the following in your address bar depending on your browser.
   - chrome://extensions
   - edge://extensions
   - brave://extensions
